@@ -11,7 +11,7 @@ Smartshelf design is a project aimed at creating a futuristic and modern shelf. 
 ## Resources
 ------------
 
-### Isometric Print
+### Isometric Print Repository - this repository has the credits for the isometric print templates:
 Isometric print repository is located at [https://github.com/Codemaster-AR/isometric-print](https://github.com/Codemaster-AR/isometric-print).
 
 ### 3D Design
