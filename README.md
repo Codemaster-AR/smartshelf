@@ -20,3 +20,6 @@ The 3D design of the Smartshelf is available on Tinkercad at [https://www.tinker
 
 ### Presentation
 The presentation can be found at [https://innoventureseducation-my.sharepoint.com/:p:/g/personal/dia17068_diaestudents_com/IQAVEcGRI_SjTKaR8DprJhliAYOJlJe6acnraEvWMHnF7OE?e=1iGah4](https://innoventureseducation-my.sharepoint.com/:p:/g/personal/dia17068_diaestudents_com/IQAVEcGRI_SjTKaR8DprJhliAYOJlJe6acnraEvWMHnF7OE?e=1iGah4)
+
+### Contact:
+Contact codemaster.ar@gmail.com or dia17068@diaestudents.com for more details.
